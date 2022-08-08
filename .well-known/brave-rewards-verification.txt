@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: rbecheras.github.io
+Token: ca30c13ffe29b22407d4dcffa9d0a5a5c1e6abe566d5ff5b7414cedf569fdd19
